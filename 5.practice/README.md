@@ -14,7 +14,7 @@
   - [ ] bbs
 
 - 最終的に、リポジトリが写真の様になっていればokです！
-[![Image from Gyazo](https://i.gyazo.com/c22ea42b49258fc64215ca3b71163d1d.png)](https://gyazo.com/c22ea42b49258fc64215ca3b71163d1d)
+<a href="https://gyazo.com/4cecf03b439236d3a46a7365d3e31c2d"><img src="https://i.gyazo.com/4cecf03b439236d3a46a7365d3e31c2d.gif" alt="Image from Gyazo" width="1000"/></a>
 
 # 事前課題のリポジトリをslackと連携させる
 - [githubとslackを連携させよう](./Day0/2.github-slack/)の手順で、残りのリポジトリもslackと連携させていきましょう。
