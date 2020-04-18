@@ -27,25 +27,14 @@
 1. slackにgithubの活動の通知を流すためには、slackで `/github subscribe {username}/{repository name}　comments` のコマンドを実行する必要があります。**(commentsはissueへの返信をslackに流すために必要です)**
 2. ここでは、slackに先ほど作成した`count`のリポジトリの通知を受け取れるように、`{username}` を自分のgithubのusernameに置き換て、slackで`/github subscribe {username}/count comments` と打ってみよう
 3. `{username}`、githubで確認することができます。
-  - 例えば、 username が `juschin` だったら、 `juschin/count` みたいな
-  - usernameはgithubのここです↓写真参照↓
-
-[![Image from Gyazo](https://i.gyazo.com/c1ecbb26f4968001d7bba03ebc2cb0df.png)](https://gyazo.com/c1ecbb26f4968001d7bba03ebc2cb0df)
-
-- slackに `/github subscribe {username}/count comments` を打ち込んだ後の様子。
-
-[![Image from Gyazo](https://i.gyazo.com/9bb4d8781a9d8c4dc99ee3b36254dc95.png)](https://gyazo.com/9bb4d8781a9d8c4dc99ee3b36254dc95)
-
-4. **`Subscribed to {username}/count` と表示されていればokです！**
+  - 例えば、 username が `kohey` だったら、 `kohey/hogehoge` 
+4. slack に **`Subscribed to {username}/hogehoge` と表示されていればokです！**
 
 # 5.通知がslackに届くか確認する
-  - githubに戻って、`count` のリポジトリを開いて、 `①issue というタブを押して`、`② New issue というボタンを押してね`。
-  - 後で詳しく説明しますが、この `issue` というものを用いて質問をしていくことになるので、`issue`のことは覚えておいてね！
-  [![Image from Gyazo](https://i.gyazo.com/b6ad80aca242611021ea54c0d3c27c47.png)](https://gyazo.com/b6ad80aca242611021ea54c0d3c27c47)
-
-  - これから、issueに記入してもらうのですが、issueは **markdown という記法**を使うと綺麗に書くことができます。詳しくは後述するので、今回はとりあえず `issue` の作成ができれば問題ないです。
-  - 簡単な自己紹介を入力して、 `submit new issue` を押してね。
-  [![Image from Gyazo](https://i.gyazo.com/0a4ff21809dcb8996d2231779d1951d2.png)](https://gyazo.com/0a4ff21809dcb8996d2231779d1951d2)
-
+  - githubに戻って、`count` のリポジトリを開いて、 `①issue というタブを押して`、`② New issue を押して、内容を投稿`。
+  - ①
+  <a href="https://gyazo.com/e469451adf4d965c6e2524a553866b05"><img src="https://i.gyazo.com/e469451adf4d965c6e2524a553866b05.png" alt="Image from Gyazo" width="1001.5000265306903"/></a>
+  - ②
+  <a href="https://gyazo.com/7e3c95d1864d94e95f76483bd83c5bf6"><img src="https://i.gyazo.com/7e3c95d1864d94e95f76483bd83c5bf6.gif" alt="Image from Gyazo" width="888"/></a>
   - slackにさっき投稿した issue が表示されていれば、slackとgithubの連携の完了です。
-  [![Image from Gyazo](https://i.gyazo.com/3cc3b74d00d04809b511bbbe768e4b58.png)](https://gyazo.com/3cc3b74d00d04809b511bbbe768e4b58)
+  
