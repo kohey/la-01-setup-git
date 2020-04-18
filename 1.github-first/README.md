@@ -13,7 +13,7 @@
 
 # 3.リポジトリ作成手順
 - まず、github の右上のアイコンを押して、Your repositories を押してください。
-[![Image from Gyazo](https://i.gyazo.com/ef3f0eaabdceb5b0161af40c0e5416a9.png)](https://gyazo.com/ef3f0eaabdceb5b0161af40c0e5416a9)
+[![Image from Gyazo](https://gyazo.com/30b2efdbcb9cd9c1a76636050ad20365)](https://gyazo.com/30b2efdbcb9cd9c1a76636050ad20365)
 - 次に、`New` というボタンを押してください。
 [![Image from Gyazo](https://i.gyazo.com/71392be32ff9cef8e8de12f3a2d36130.png)](https://gyazo.com/71392be32ff9cef8e8de12f3a2d36130)
 - そしたら、この様なページが出てくると思うので、写真の手順にしたがって、`count` と入力して、②の`Create repository`というボタンを押してください。
