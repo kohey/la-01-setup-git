@@ -4,7 +4,7 @@
 
 ## 大まかな流れ
 - 1. GitHub 上で Issue を立てます
-- 2. Slack で `@かるぼ` にメンションつけて、Issue の URL を載せます
+- 2. Slackの `question` チャンネル で `@かるぼ` にメンションつけて、Issue の URL を載せます
 
 ## 補足事項
 - 環境構築の質問は Issue 使わなくて OKです
@@ -23,7 +23,7 @@
 ```
 カウントアプリの数字が増えない
 ```
-### 3-3 Comment
+### 3-2-2 Comment
 - 以下のフォーマットに沿って、エラーの状態を詳しく書いてください。
 ```
 # エラー内容
@@ -63,26 +63,23 @@
 
 ```
 
-### 3-4 Submit
+### 3-3 Submit
 - 質問事項の記入が終わったら、`submit new issue` を押します。
 - slack に通知が飛べばOKです
 
-### 3-5 質問対応
-- 質問対応のコミュニケーションは基本的に commnet を使って行います。(ここはケースバイケースで、slackで行うこともあります)
-[![Image from Gyazo](https://i.gyazo.com/30f84da12b0f770014f07cab5089b3fc.png)](https://gyazo.com/30f84da12b0f770014f07cab5089b3fc)
+### 3-4 slack で `@かるぼ` にメンションします。
+- issue を立てたら、slackの `question` チャンネル で僕にメンションお願いします。
+- issue を立てるだけだと、気づかないかもしれないので。
+- 下記の画像の感じです！
+<a href="https://gyazo.com/9e91c3260dad38db1e24dc77b00d364b"><img src="https://i.gyazo.com/9e91c3260dad38db1e24dc77b00d364b.gif" alt="Image from Gyazo" width="688"/></a>
 
-### 3-6 まとめ
-- ここまでの一連の流れが終わった issue が[こちらです](https://github.com/juschin/count/issues/3)
-- 開発を進めていく中でエラーが出たら、まずはその状態のコードをgithubにpushする。
-- 進めている教科書に対応するリポジトリのissueに質問をまとめて、submitする。
 
 ## 4 その他の質問
 - エラー以外の質問(理解が浅いところをもっと深めたり、気になったことを質問したい)は、slack を使用します。**気軽になんでも聞いてもらえればと思います！**
-- **[要チェック]slackで画像/gifを共有する時は、以下の画像のリンクをコピーする**
-[![Image from Gyazo](https://i.gyazo.com/364fb241e8a9969254765b9ba9721788.png)](https://gyazo.com/364fb241e8a9969254765b9ba9721788)
-- **質問するときはメンション`@justin.taniguchi`をつけてください！**(以下質問例)
+
+- **質問するときはメンション`@かるぼ`をつけてください！**(以下質問例)
 ```
-@justin.taniguchi
+@かるぼ
 
 ここの before do って何ですか？
 https://i.gyazo.com/b74670c4327c6ad4c04150cca7daec7f.png
@@ -90,8 +87,6 @@ https://i.gyazo.com/b74670c4327c6ad4c04150cca7daec7f.png
 [![Image from Gyazo](https://i.gyazo.com/bd724ea746d0234536065d38c671d886.png)](https://gyazo.com/bd724ea746d0234536065d38c671d886)
 
 ## 5 まとめ&最後に
-- エラー対応とそのほかの質問で質問方法を分けています！
-- 質問を見ているときは、下の写真の様に、`👀` このマークをつけます。このマークが付いてないときは見落としているかもしれないので、僕に一声かけてもらえると助かります！
-
-|[![Image from Gyazo](https://i.gyazo.com/f75bc7675a95afca774272bb50d7c072.png)](https://gyazo.com/f75bc7675a95afca774272bb50d7c072)|[![Image from Gyazo](https://i.gyazo.com/39d67820554a670fbfef8513ce429fd0.png)](https://gyazo.com/39d67820554a670fbfef8513ce429fd0)
-| ---- | ----|
+- 例えば、エラーじゃなくても聞きたいことがあると思います！
+- なんでもいいので、気になったら slack の `question` チャンネルで、`@かるぼ` にメンションつけて聞いてください。
+- パブリックがいやだなああという時は、DMでもOKです！いい質問は、名前を伏せた上で共有する時があります！
