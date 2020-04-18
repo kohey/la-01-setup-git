@@ -18,10 +18,8 @@
 [![Image from Gyazo](https://i.gyazo.com/fe6fe559990fa5fb1f0c7de667b51849.png)](https://gyazo.com/fe6fe559990fa5fb1f0c7de667b51849)
 3. すると、こんな画面が出てくるので、 `Connect github account` を押してください。
 [![Image from Gyazo](https://i.gyazo.com/c04267dea6b9ed601c3f4ef83f9a8ae4.png)](https://gyazo.com/c04267dea6b9ed601c3f4ef83f9a8ae4)
-4. 今までgithubとslackを連携させとがなければ、こんな画面が出てくると思うで、 `Authorize Slack by GitHub` を押してください。出てこない人は、一旦無視して、進めてみてください。
-[![Image from Gyazo](https://i.gyazo.com/35b2e3acaf96224f84ce68b2d29944af.png)](https://gyazo.com/35b2e3acaf96224f84ce68b2d29944af)
-5. slackに戻って、これが表示されていることを確認してください。
-[![Image from Gyazo](https://i.gyazo.com/4ec32bb01759cb822bfebec4573fa254.png)](https://gyazo.com/4ec32bb01759cb822bfebec4573fa254)
+4. 今までgithubとslackを連携させとがなければ、 `Authorize Slack by GitHub` を押してください。出てこない人は、一旦無視して、進めてみてください。
+5. slack に連携通知が届くはずです
 6. 最後に、[ここ](https://github.com/settings/apps/authorizations)で認証がうまくいったかを確認します。下の写真の様になっていれば、認証完了です！
 [![Image from Gyazo](https://i.gyazo.com/a222a67e45d61f029cfd10abb3f100a2.png)](https://gyazo.com/a222a67e45d61f029cfd10abb3f100a2)
 
