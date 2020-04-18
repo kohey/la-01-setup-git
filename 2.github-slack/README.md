@@ -28,7 +28,7 @@
 2. ここでは、slackに先ほど作成した`count`のリポジトリの通知を受け取れるように、`{username}` を自分のgithubのusernameに置き換て、slackで`/github subscribe {username}/count comments` と打ってみよう
 3. `{username}`、githubで確認することができます。
   - 例えば、 username が `kohey` だったら、 `kohey/hogehoge` 
-4. slack に **`Subscribed to {username}/hogehoge` と表示されていればokです！**
+4. 皆さんなら slack に **`Subscribed to {username}/count` と表示されていればokです！**
 
 # 5.通知がslackに届くか確認する
   - githubに戻って、`count` のリポジトリを開いて、 `①issue というタブを押して`、`② New issue を押して、内容を投稿`。
