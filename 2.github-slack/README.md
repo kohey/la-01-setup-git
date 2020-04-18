@@ -1,8 +1,8 @@
 # github-slack
 - 前のセクションでは、githubにコードをあげるための準備、リポジトリの作成を行いました。
 - このセクションでは、githubでの活動(githubにコードをあげる,issueを使って質問する,詳しくは後述)をslackで可視化するために、githubとslackの連携を行います。
-- githubとskackの連携が完了して、開発を進めていくと、以下の写真のような状態になります。
-[![Image from Gyazo](https://i.gyazo.com/9860a79b58d23cdeacd2de9fd1073fc5.png)](https://gyazo.com/9860a79b58d23cdeacd2de9fd1073fc5)
+- githubとskackの連携が完了すると、以下の写真のような状態になります。
+<a href="https://gyazo.com/596478880583c727b46dbcc2e2a4ef97"><img src="https://i.gyazo.com/596478880583c727b46dbcc2e2a4ef97.gif" alt="Image from Gyazo" width="700"/></a>
 
 # 1.github app に slack をインストールする
 - まず、github に [slack app(インストールURL)](https://github.com/apps/slack)をインストールします。
