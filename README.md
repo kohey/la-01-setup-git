@@ -11,6 +11,9 @@
 ・環境構築
 ・各自で環境構築用の素材をダウンロードし、環境構築の教科書に沿って、環境構築を終わらせてきてください。
 ・エラーが出たら、気軽に質問してきてください〜(DMでもOK)
+・素材: https://drive.google.com/drive/u/0/folders/1n3AD1yZ6gzR8MwISoBVRcmn276zo7JKo
+・環境構築の教科書: https://drive.google.com/drive/u/0/folders/1eqcBz7tbrazvZMhRgRp4QSJrvXL1UTWY
+
 【Recommend(優先度が高い順にならべています)】
 ・progateの HTML/CSS 入門(下記の無料部分)
 ・https://prog-8.com/languages/html
