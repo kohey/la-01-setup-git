@@ -15,7 +15,6 @@
 # 3.リポジトリ作成手順
 - 右上のプルダウンから、「new repository」 を選択します。
 - その後リポジトリに名前をつけて、create
-- (その他の設定は触らなくてOKです)
 <a href="https://gyazo.com/30b2efdbcb9cd9c1a76636050ad20365"><img src="https://i.gyazo.com/30b2efdbcb9cd9c1a76636050ad20365.gif" alt="Image from Gyazo" width="1000"/></a>
 
 - こんな感じの画面が出れば、リポジトリ完成です！！
